@@ -1,0 +1,356 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-name="Blacksheep Tv" group-title="Tamil;SSK" tvg-chno="8601" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/blacksheeptv.jpg",Blacksheep Tv
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Chithiram Tv" group-title="Tamil;SSK" tvg-chno="8602" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/chithiramtv.jpg",Chithiram Tv
+https://digilive.nexg.tv/live/_definst_/chithiramtv.smil/chunklist_w1737586762_b900000_t64SGlnaA==.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Murasu Tv" group-title="Tamil;SSK" tvg-chno="8603" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sana Plus" group-title="Tamil;SSK" tvg-chno="8604" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanaplus.jpg",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Isai Saaral" group-title="Tamil;SSK" tvg-chno="8605" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaisaral.jpg",Isai Saaral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vasantham Lanka" group-title="Tamil;SSK" tvg-chno="8606" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vasantham.jpg",Vasantham Lanka
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8?dvr
+
+#EXTINF:0 tvg-id="" tvg-name="MN Music" group-title="Tamil;SSK" tvg-chno="8607" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mnmusic.jpg",MN Music
+https://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Voot Colors Tamil" group-title="Tamil;SSK" tvg-chno="8608" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/colorstamil.png",Voot Colors Tamil
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sony Pix HD" group-title="English;SSK" tvg-chno="8609" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sonypix.jpg",Sony Pix HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Siripoli" group-title="Tamil;SSK" tvg-chno="8610" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/siripoli.jpg",Siripoli
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sakthi Lanka" group-title="Tamil;SSK" tvg-chno="8611" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sakthitv.jpg",Sakthi Lanka
+https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?dvr
+
+#EXTINF:0 tvg-id="" tvg-name="Thalaa Tv" group-title="Tamil;SSK" tvg-chno="8612" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/thalaatv.jpg",Thalaa Tv
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/27c79faa-7ecd-46ac-97a7-c6146e3ab9ee/1.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Isai Aruvi" group-title="Tamil;SSK" tvg-chno="8613" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaiaruvi.jpg",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="IBC Tamil" group-title="Tamil;SSK" tvg-chno="8614" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ibctamil.jpg",IBC Tamil
+https://ibc.massstream.net/IBC/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Mass Tv HD" group-title="Tamil;SSK" tvg-chno="8615" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/masstv.png",Mass Tv HD
+https://tv2.massstream.net/Masstv-web/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vaanavil Music" group-title="Tamil;SSK" tvg-chno="8616" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vaanavil.jpg",Vaanavil Music
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Tvi" group-title="Tamil;SSK" tvg-chno="8617" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvi.png",Tvi
+https://live.cmr24.fm/TVI/SD/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="TVI HD" group-title="Tamil;SSK" tvg-chno="8618" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvihd.jpg",TVI HD
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Imayam Tv" group-title="Tamil;SSK" tvg-chno="8619" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/imayam.jpg",Imayam Tv
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Aus Tamil" group-title="Tamil;SSK" tvg-chno="8620" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/austv.jpg",Aus Tamil
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="3 Tamil" group-title="Tamil;SSK" tvg-chno="8621" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/3tamil.jpg",3 Tamil
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Hari Tv" group-title="Tamil;SSK" tvg-chno="8622" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/haritv.png",Hari Tv
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Jawahar Tv" group-title="Tamil;SSK" tvg-chno="8623" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jawahar.png",Jawahar Tv
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Marutam Nelli Tv" group-title="Tamil;SSK" tvg-chno="8624" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mntv.jpg",Marutam Nelli Tv
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Moon Tv" group-title="Tamil;SSK" tvg-chno="8625" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/moontv.jpg",Moon Tv
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sana Tv" group-title="Tamil;SSK" tvg-chno="8626" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanatv.png",Sana Tv
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sooriyan Tv" group-title="Tamil;SSK" tvg-chno="8627" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sooriyan.jpg",Sooriyan Tv
+http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sri Krishna" group-title="Tamil;SSK" tvg-chno="8628" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/srikrishna.jpg",Sri Krishna
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="GTA Tamil" group-title="Tamil;SSK" tvg-chno="8629" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/gtatamil.png",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="7 Star" group-title="Tamil;SSK" tvg-chno="8630" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/7star.jpg",7 Star
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="CTN" group-title="Tamil;SSK" tvg-chno="8631" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ctn.jpg",CTN
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="EET Tv" group-title="Tamil;SSK" tvg-chno="8632" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eet.jpg",EET Tv
+https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?dvr
+
+#EXTINF:0 tvg-id="" tvg-name="Zee News" group-title="Tamil;SSK" tvg-chno="8633" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeenews.jpg",Zee News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Kani Polimer News" group-title="Tamil;SSK" tvg-chno="8634" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/polimernews.jpg",Kani Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Kani News 7 Tamil" group-title="Tamil;SSK" tvg-chno="8635" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/news7tamil.jpg",Kani News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Kani Thanthi Tv" group-title="Tamil;SSK" tvg-chno="8636" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/thanthitv.png",Kani Thanthi Tv
+https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Kani Puthiya Thalaimurai" group-title="Tamil;SSK" tvg-chno="8637" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/newgennews.png",Kani Puthiya Thalaimurai
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Kani News 18 Tamil" group-title="Tamil;SSK" tvg-chno="8638" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/news18tamil.jpg",Kani News 18 Tamil
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Athavan TV" group-title="Tamil;SSK" tvg-chno="8639" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/athavan.png",Athavan TV
+https://ipcloud.live/aadhavantv/adhavanmdu/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Athavan Colours" group-title="Tamil;SSK" tvg-chno="8640" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/athavancolours.png",Athavan Colours
+https://ipcloud.live/aadhavan/colours/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Deepam Tv" group-title="Tamil;SSK" tvg-chno="8641" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/deepamtv.jpg",Deepam Tv
+https://ipcloud.live/deepamtv/deepamtv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Siva TV" group-title="Tamil;SSK" tvg-chno="8642" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sivatv.jpg",Siva TV
+https://ipcloud.live/sivatv/sivatv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Veera Tv" group-title="Tamil;SSK" tvg-chno="8643" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/veeratv.jpg",Veera Tv
+https://ipcloud.live/veeratv/veeratvhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Bharathi Tv" group-title="Tamil;SSK" tvg-chno="8644" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/barathitv.jpg",Bharathi Tv
+https://cdn.onecloudlive.in/karnan/bharathitv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Eagle Tv" group-title="Tamil;SSK" tvg-chno="8645" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eagletv.jpg",Eagle Tv
+https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Star Media" group-title="Tamil;SSK" tvg-chno="8646" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starmedia.jpg",Star Media
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr
+
+#EXTINF:0 tvg-id="" tvg-name="Durai Tv" group-title="Tamil;SSK" tvg-chno="8647" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/duraitv.jpg",Durai Tv
+https://ipcloud.live/duraitv/duraitv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Maha Tv" group-title="Tamil;SSK" tvg-chno="8648" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mahatv.jpg",Maha Tv
+https://ipcloud.live/jrptv/mahatv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sahara TV" group-title="Tamil;SSK" tvg-chno="8649" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sahara.jpg",Sahara TV
+https://ipcloud.live/saharatv/saharatv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Subash TV" group-title="Tamil;SSK" tvg-chno="8650" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/subashtv.jpg",Subash TV
+https://ipcloud.live/subashtv/subashhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Akash TV" group-title="Tamil;SSK" tvg-chno="8651" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/akashtv.jpg",Akash TV
+https://ipcloud.live/aakashtv/aakashhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Yogaa Tv" group-title="Tamil;SSK" tvg-chno="8652" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/yogaatv.jpg",Yogaa Tv
+https://ipcloud.live/yogaatv/yogaatv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="MEN Tv" group-title="Tamil;SSK" tvg-chno="8653" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mentv.jpg",MEN Tv
+https://ipcloud.live/mentv/mentvhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Minnal Tv" group-title="Tamil;SSK" tvg-chno="8654" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/minnaltv.jpg",Minnal Tv
+https://ipcloud.live/minnaltv/minnalhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Star City Tv" group-title="Tamil;SSK" tvg-chno="8655" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starcity.jpg",Star City Tv
+https://cdn.onecloudlive.in/citytv/citytvhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="One Movies" group-title="Tamil;SSK" tvg-chno="8656" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/onemovies.jpg",One Movies
+https://ipcloud.live/onetv/onemovies/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="One Movies Hollywood" group-title="Tamil;SSK" tvg-chno="8657" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/onemovieshollywood.png",One Movies Hollywood
+https://ipcloud.live/onetv/onehollywood/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Spice Tv" group-title="Tamil;SSK" tvg-chno="8658" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/spicetv.jpg",Spice Tv
+https://xstream.onecloudlive.in/spicetv/spicetv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="RNR Tv" group-title="Tamil;SSK" tvg-chno="8659" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rnrmovies.jpg",RNR Tv
+https://stream.onecloudlive.in/rnr/rnrhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Music Star" group-title="Tamil;SSK" tvg-chno="8660" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/musicstar.jpg",Music Star
+https://stream.onecloudlive.in/musicstartv/musicstartv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Samugam Tv" group-title="Tamil;SSK" tvg-chno="8661" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/samugam.png",Samugam Tv
+https://ca.streamjo.com/live/samugam.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vasanth Tv LQ" group-title="Tamil;SSK" tvg-chno="8662" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nicktoons.jpg",Vasanth Tv LQ
+https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AFV Tv" group-title="Tamil;Kids" tvg-chno="8663" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/afv.png",AFV Tv
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AFV Espanol" group-title="Tamil;Kids" tvg-chno="8664" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/afvesp.png",AFV Espanol
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AFV Family" group-title="Tamil;Kids" tvg-chno="8665" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/afvfamily.jpg",AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AFV Tv" group-title="Tamil;Kids" tvg-chno="8666" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/afvtv.jpg",AFV Tv
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Ani" group-title="Tamil;Kids" tvg-chno="8667" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ani.jpg",Ani
+http://moobl.ru/hls/Ani.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Baby Shark" group-title="Tamil;Kids" tvg-chno="8668" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/babyshark.jpg",Baby Shark
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Baby First" group-title="Tamil;Kids" tvg-chno="8669" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/babyfirst.jpg",Baby First
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Battery Pop" group-title="Tamil;Kids" tvg-chno="8670" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/batterypop.jpg",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Brat Tv" group-title="Tamil;Kids" tvg-chno="8671" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/brat.jpg",Brat Tv
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Nick Toons" group-title="Tamil;Kids" tvg-chno="8672" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nicktoons.jpg",Nick Toons
+https://stream01.vnet.am/Boomerang/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="CNN International HD" group-title="English;SSK" tvg-chno="8673" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nicktoons.jpg",CNN International HD
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sivan Tv" group-title="Tamil;Devotional" tvg-chno="8674" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sivan.jpg",Sivan Tv
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Swasthik Tv" group-title="Tamil;Devotional" tvg-chno="8675" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/swasthik.jpg",Swasthik Tv
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="SVBC TTD Tamil" group-title="Tamil;Devotional" tvg-chno="8676" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ttd.jpg",SVBC TTD Tamil
+http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Laxmi Tv" group-title="Tamil;Devotional" tvg-chno="8677" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/laxmitv.png",Laxmi Tv
+http://198.144.149.82:8080/NOTV/LAXMITV/index.m3u8?token=GTR
+
+#EXTINF:0 tvg-id="" tvg-name="IBC Bakthi" group-title="Tamil;Devotional" tvg-chno="8678" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ibcbakthi.jpg",IBC Bakthi
+https://ibc.massstream.net/IBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AMN Bakthi" group-title="Tamil;Devotional" tvg-chno="8679" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/amnbakthi.png",AMN Bakthi
+https://ipcloud.live/amn/amnbhakthi/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Cartoon Classics SD" group-title="Tamil;Kids" tvg-chno="8680" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cartoonclassics.png",Cartoon Classics SD
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/cb872981-3e73-414c-b481-cdf02d085f05/0.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Cartoon Classics HD" group-title="Tamil;Kids" tvg-chno="8681" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cartoonclassics.png",Cartoon Classics HD
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/cb872981-3e73-414c-b481-cdf02d085f05/1.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Cartoon Classics FHD" group-title="Tamil;Kids" tvg-chno="8682" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cartoonclassics.png",Cartoon Classics FHD
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/cb872981-3e73-414c-b481-cdf02d085f05/2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 1+" group-title="Tamil;SSK" tvg-chno="8683" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/SonyTen1.png",Sony Ten 1 Kani
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 2+" group-title="Tamil;SSK" tvg-chno="8684" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/SonyTen2.png",Sony Ten 2 Kani
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 3+" group-title="Tamil;SSK" tvg-chno="8685" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/SonyTen3.png",Sony Ten 3 Kani
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 4+" group-title="Tamil;SSK" tvg-chno="8686" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/SonyTen4.png",Sony Ten 4 Kani
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 5+" group-title="Tamil;SSK" tvg-chno="8687" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/SonyTen5.png",Sony Ten 5 Kani
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AXN" group-title="English;SSK" tvg-chno="8688" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/AXN.png",AXN
+http://170.254.18.106/AXN/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="HBO 2" group-title="English;SSK" tvg-chno="8689" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/HBO.png",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="HBO Family" group-title="English;SSK" tvg-chno="8690" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/HBOFamily.jpg",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="TNT" group-title="English;SSK" tvg-chno="8691" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tnt.jpg",TNT
+http://170.254.18.106/TNT/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="HBO Plus" group-title="English;SSK" tvg-chno="8692" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/HBOPlus.png",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="HBO Extreme" group-title="English;SSK" tvg-chno="8693" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/HBOxtream.jpg",HBO Extreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Paramount" group-title="English;SSK" tvg-chno="8694" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ParamountNetwork.jpg",Paramount
+http://170.254.18.106/PARAMOUNT/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="M Tv" group-title="English;SSK" tvg-chno="8695" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mtvlogo.jpg",M TV
+http://170.254.18.106/MTV/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="HBO Mundi" group-title="English;SSK" tvg-chno="8696" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/HBOmundi.jpg",HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Cinemax" group-title="English;SSK" tvg-chno="8697" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cinemaxlogo.jpg",Cinemax
+http://170.254.18.106/CINEMAX/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="India Today" group-title="English;SSK" tvg-chno="8698" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeenews.jpg",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Dheeran Tv" group-title="Tamil;SSK" tvg-chno="8699" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dheerantv.jpg",Dheeran Tv
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Fight Tv HQ" group-title="English;SSK" tvg-chno="8700" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fighttv.jpg",Fight Tv HQ
+https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/4d04d675-ccd2-44e5-b42b-83e477fc50ae/0.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Fight Tv HD" group-title="English;SSK" tvg-chno="8701" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fighttv.jpg",Fight Tv HD
+https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/4d04d675-ccd2-44e5-b42b-83e477fc50ae/2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vikatan Tv" group-title="Tamil;SSK" tvg-chno="8702" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vikatantv.jpg",Vikatan Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sun Tv Malaysia" group-title="Tamil;SSK" tvg-chno="8703" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sunmalaysia.png",Sun Tv Malaysia
+https://stream.vstartv.org:3534/hybrid/play.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vaanam Tv" group-title="Tamil;SSK" tvg-chno="8704" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vaanamtv.png",Vaanam Tv
+https://stream.vstartv.org:3511/hybrid/play.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Sana Plus TP" group-title="Tamil;SSK" tvg-chno="8705" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanaplus.jpg",Sana Plus TP
+https://cable75tataplay.akamaized.net/dash/sanaplus.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Sana Tv TP" group-title="Tamil;SSK" tvg-chno="8706" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanatv.png",Sana Tv TP
+https://cable75tataplay.akamaized.net/dash/sanatv.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Bigg Boss Live" group-title="Tamil;SSK" tvg-chno="8707" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bb8.jpg",Bigg Boss Live
+https://live.tamiltool.online/livetamil/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="N Vision Music" group-title="Tamil;SSK" tvg-chno="8714" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nvision.png",N Vision Music
+https://ipcloud.live/nvision/skymusic/index.m3u8
+
+#EXTINF:-1 radio="true",Kodai FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
+#EXTINF:-1 radio="true",Chitra
+https://stream.zeno.fm/aad4e51qz7zuv
+#EXTINF:-1 radio="true",illayaraja
+https://stream-164.zeno.fm/pwm9y3eud5zuv
+#EXTINF:-1 radio="true",illayaraja HQ
+https://stream.zeno.fm/pwm9y3eud5zuv
+#EXTINF:-1 radio="true",Thendral Melody
+https://thenralw.radioca.st/LiveStream
+#EXTINF:-1 radio="true",Harish
+https://stream-158.zeno.fm/0bhsthssutzuv
+#EXTINF:-1 radio="true",Radio Mirchi
+https://radios.crabdance.com:8002/1
+#EXTINF:-1 radio="true",Suriyan FM
+https://radios.crabdance.com:8002/2
+#EXTINF:-1 radio="true",Hello FM
+https://radios.crabdance.com:8002/3
+#EXTINF:-1 radio="true",Big FM
+https://radios.crabdance.com:8002/4
+#EXTINF:-1 radio="true",Radio City
+https://radios.crabdance.com:8002/5
+#EXTINF:-1 radio="true",Radio Vaanam
+https://sathees.radioca.st/;stream.mp3
+#EXTINF:-1 radio="true",Inba Tamil Podcast
+https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1
+#EXTINF:-1 radio="true",Dubai Tamil
+https://centova.aarenworld.com/proxy/894tamilfm/stream
+#EXTINF:-1 radio="true",illayaraja 80s
+https://stream-162.zeno.fm/48w230kx8vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0OHcyMzBreDh2enV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlFZWpuNU1mVDBXTGRyQVllZWVXSFEiLCJpYXQiOjE3NTk1MDA4NDcsImV4cCI6MTc1OTUwMDkwN30.xy3mAgtuZsqr0e2gLYmXFm27mzzpgJOPPhKTUQiomYI
