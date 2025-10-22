@@ -830,3 +830,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:0 tvg-id="" tvg-name="Vasanth Tv HQ" group-title="Tamil;KaniSsKa" tvg-chno="262" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vasanthtv.png",Vasanth Tv HQ
 https://cdn-3.pishow.tv/live/1247/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="AAAA MK Six" group-title="Tamil;KaniSsKa" tvg-chno="263" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mksix.jpg",AAAA MK Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
