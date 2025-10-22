@@ -720,113 +720,113 @@ https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Harin" group-title="Tamil;KaniSsKa" tvg-chno="225" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/harintv.jpg",Harin
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Sports" group-title="English;Sports" tvg-chno="226" tvg-logo="",DD Sports
+#EXTINF:0 tvg-id="" tvg-name="DD Sports" group-title="English;Sports" tvg-chno="226" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="HBO Zone" group-title="English;Movies" tvg-chno="227" tvg-logo="",HBO Zone
+#EXTINF:0 tvg-id="" tvg-name="HBO Zone" group-title="English;Movies" tvg-chno="227" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/hbozone.png",HBO Zone
 https://fl25.moveonjoy.com/HBO_ZONE/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="HBO Zone HD" group-title="English;Movies" tvg-chno="228" tvg-logo="",HBO Zone HD
+#EXTINF:0 tvg-id="" tvg-name="HBO Zone HD" group-title="English;Movies" tvg-chno="228" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/hbozone.png",HBO Zone HD
 https://fl25.moveonjoy.com/HBO_ZONE/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Paramount Network" group-title="English;Movies" tvg-chno="229" tvg-logo="",Paramount Network
+#EXTINF:0 tvg-id="" tvg-name="Paramount Network" group-title="English;Movies" tvg-chno="229" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/paramountnetworks.png",Paramount Network
 https://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Movies" group-title="English;Movies" tvg-chno="230" tvg-logo="",Sony Movies
+#EXTINF:0 tvg-id="" tvg-name="Sony Movies" group-title="English;Movies" tvg-chno="230" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sonymovies.png",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Tamil" group-title="Tamil;Others" tvg-chno="231" tvg-logo="",DD Tamil
+#EXTINF:0 tvg-id="" tvg-name="DD Tamil" group-title="Tamil;Others" tvg-chno="231" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Tamil HQ" group-title="Tamil;Others" tvg-chno="232" tvg-logo="",DD Tamil HQ
+#EXTINF:0 tvg-id="" tvg-name="DD Tamil HQ" group-title="Tamil;Others" tvg-chno="232" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil HQ
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Sports HQ" group-title="English;Sports" tvg-chno="233" tvg-logo="",DD Sports HQ
+#EXTINF:0 tvg-id="" tvg-name="DD Sports HQ" group-title="English;Sports" tvg-chno="233" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports.jpg",DD Sports HQ
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Willow HD" group-title="English;Sports" tvg-chno="234" tvg-logo="",Willow HD
+#EXTINF:0 tvg-id="" tvg-name="Willow HD" group-title="English;Sports" tvg-chno="234" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/willowhd.jpg",Willow HD
 https://fl41.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Willow HQ" group-title="English;Sports" tvg-chno="235" tvg-logo="",Willow HQ
+#EXTINF:0 tvg-id="" tvg-name="Willow HQ" group-title="English;Sports" tvg-chno="235" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/willowhq.jpg",Willow HQ
 https://fl41.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Madha" group-title="Tamil;Devotional" tvg-chno="236" tvg-logo="",Madha
+#EXTINF:0 tvg-id="" tvg-name="Madha" group-title="Tamil;Devotional" tvg-chno="236" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/madhatv.jpg",Madha
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="CW Gold" group-title="English;Movies" tvg-chno="237" tvg-logo="",CW Gold
+#EXTINF:0 tvg-id="" tvg-name="CW Gold" group-title="English;Movies" tvg-chno="237" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cwgold.png",CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="CW Forever" group-title="English;Movies" tvg-chno="238" tvg-logo="",CW Forever
+#EXTINF:0 tvg-id="" tvg-name="CW Forever" group-title="English;Movies" tvg-chno="238" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cwforever.png",CW Forever
 https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Movies Action" group-title="English;Movies" tvg-chno="239" tvg-logo="",Movies Action
+#EXTINF:0 tvg-id="" tvg-name="Movies Action" group-title="English;Movies" tvg-chno="239" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/moviesaction.png",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Zee Bollywood" group-title="English;Movies" tvg-chno="240" tvg-logo="",Zee Bollywood
+#EXTINF:0 tvg-id="" tvg-name="Zee Bollywood" group-title="English;Movies" tvg-chno="240" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeebollywood.jpg",Zee Bollywood
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Zee Bollywood SD" group-title="English;Movies" tvg-chno="241" tvg-logo="",Zee Bollywood SD
+#EXTINF:0 tvg-id="" tvg-name="Zee Bollywood SD" group-title="English;Movies" tvg-chno="241" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeebollywood.jpg",Zee Bollywood SD
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist480p.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Zee Bollywood HD" group-title="English;Movies" tvg-chno="242" tvg-logo="",Zee Bollywood HD
+#EXTINF:0 tvg-id="" tvg-name="Zee Bollywood HD" group-title="English;Movies" tvg-chno="242" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeebollywood.jpg",Zee Bollywood HD
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FX" group-title="English;Movies" tvg-chno="243" tvg-logo="",FX
+#EXTINF:0 tvg-id="" tvg-name="FX" group-title="English;Movies" tvg-chno="243" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fxeng.png",FX
 https://fl41.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FXM" group-title="English;Movies" tvg-chno="244" tvg-logo="",FXM
+#EXTINF:0 tvg-id="" tvg-name="FXM" group-title="English;Movies" tvg-chno="244" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fxm.png",FXM
 https://fl41.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FXX" group-title="English;Movies" tvg-chno="245" tvg-logo="",FXX
+#EXTINF:0 tvg-id="" tvg-name="FXX" group-title="English;Movies" tvg-chno="245" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fxx.png",FXX
 https://fl41.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB Crime" group-title="English;Movies" tvg-chno="246" tvg-logo="",WB Crime
+#EXTINF:0 tvg-id="" tvg-name="WB Crime" group-title="English;Movies" tvg-chno="246" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbcrime.png",WB Crime
 https://mediapackage-azf4-source.fullscreen.nz/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB Horror" group-title="English;Movies" tvg-chno="247" tvg-logo="",WB Horror
+#EXTINF:0 tvg-id="" tvg-name="WB Horror" group-title="English;Movies" tvg-chno="247" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbparanormal.png",WB Horror
 https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB Chasing Criminals" group-title="English;Movies" tvg-chno="248" tvg-logo="",WB Chasing Criminals
+#EXTINF:0 tvg-id="" tvg-name="WB Chasing Criminals" group-title="English;Movies" tvg-chno="248" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbcrimescenes.jpg",WB Chasing Criminals
 https://amg00136-wbd-amg00136c17-tablo-us-7204.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB Crime Scenes" group-title="English;Movies" tvg-chno="249" tvg-logo="",WB Crime Scenes
+#EXTINF:0 tvg-id="" tvg-name="WB Crime Scenes" group-title="English;Movies" tvg-chno="249" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbchasingcriminals.jpg",WB Crime Scenes
 https://amg00136-wbd-amg00136c15-tablo-us-7098.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB Deadliest Catch" group-title="English;Movies" tvg-chno="250" tvg-logo="",WB Deadliest Catch
+#EXTINF:0 tvg-id="" tvg-name="WB Deadliest Catch" group-title="English;Movies" tvg-chno="250" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbdc.png",WB Deadliest Catch
 https://mediapackage-azf2-source.fullscreen.nz/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB FBI" group-title="English;Movies" tvg-chno="251" tvg-logo="",WB FBI
+#EXTINF:0 tvg-id="" tvg-name="WB FBI" group-title="English;Movies" tvg-chno="251" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbfbi.jpg",WB FBI
 https://amg00136-wbd-amg00136c19-tablo-us-7187.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="WB Mysterious World" group-title="English;Movies" tvg-chno="252" tvg-logo="",WB Mysterious World
+#EXTINF:0 tvg-id="" tvg-name="WB Mysterious World" group-title="English;Movies" tvg-chno="252" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbmysteriousworld.jpg",WB Mysterious World
 https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Best Action" group-title="English;Movies" tvg-chno="253" tvg-logo="",Best Action
+#EXTINF:0 tvg-id="" tvg-name="Best Action" group-title="English;Movies" tvg-chno="253" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bestaction.png",Best Action
 https://amg02132-sofast-bestactiontv-samsungin-3c34o.amagi.tv/playlist/amg02132-sofast-bestactiontv-samsungin/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Best Thriller" group-title="English;Movies" tvg-chno="254" tvg-logo="",Best Thriller
+#EXTINF:0 tvg-id="" tvg-name="Best Thriller" group-title="English;Movies" tvg-chno="254" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bestthriller.png",Best Thriller
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="KCM" group-title="English;Movies" tvg-chno="255" tvg-logo="",KCM
+#EXTINF:0 tvg-id="" tvg-name="KCM" group-title="English;Movies" tvg-chno="255" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kcm.png",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Baby First" group-title="English;Movies" tvg-chno="256" tvg-logo="",Baby First
+#EXTINF:0 tvg-id="" tvg-name="Baby First" group-title="English;Movies" tvg-chno="256" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/babyfirst..png",Baby First
 https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FilmRise Horror" group-title="English;Movies" tvg-chno="257" tvg-logo="",FilmRise Horror
+#EXTINF:0 tvg-id="" tvg-name="FilmRise Horror" group-title="English;Movies" tvg-chno="257" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/filmrisehorror.png",FilmRise Horror
 https://d3fmqi91qduj7.cloudfront.net/11401/88814513/hls/master.m3u8?ads.xumo_channelId=88814513&ads.xumo_streamId=88814513
 
-#EXTINF:0 tvg-id="" tvg-name="Zee One" group-title="English;Movies" tvg-chno="258" tvg-logo="",Zee One
+#EXTINF:0 tvg-id="" tvg-name="Zee One" group-title="English;Movies" tvg-chno="258" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeeone.png",Zee One
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Universal Action" group-title="English;Movies" tvg-chno="259" tvg-logo="",Universal Action
+#EXTINF:0 tvg-id="" tvg-name="Universal Action" group-title="English;Movies" tvg-chno="259" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/universalaction.png",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
 
-#EXTINF:0 tvg-id="" tvg-name="Mediacorp" group-title="English;Movies" tvg-chno="260" tvg-logo="",Mediacorp
+#EXTINF:0 tvg-id="" tvg-name="Mediacorp" group-title="English;Movies" tvg-chno="260" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mediacorp.png",Mediacorp
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Mediacorp Tamil" group-title="Tamil;KaniSsKa" tvg-chno="261" tvg-logo="",Mediacorp Tamil
+#EXTINF:0 tvg-id="" tvg-name="Mediacorp Tamil" group-title="Tamil;KaniSsKa" tvg-chno="261" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mediacorptamil.png",Mediacorp Tamil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Vasanth Tv HQ" group-title="Tamil;KaniSsKa" tvg-chno="262" tvg-logo="",Vasanth Tv HQ
+#EXTINF:0 tvg-id="" tvg-name="Vasanth Tv HQ" group-title="Tamil;KaniSsKa" tvg-chno="262" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vasanthtv.png",Vasanth Tv HQ
 https://cdn-3.pishow.tv/live/1247/master.m3u8
