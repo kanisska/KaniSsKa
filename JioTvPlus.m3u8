@@ -183,49 +183,49 @@ https://live20.bozztv.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="1 Tv" group-title="Tamil;KaniSsKa" tvg-chno="61" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/no1tamil.jpg",1 Tv
 https://live.skystream.in/live/no1tv/index.m3u8?hls_ctx=gw94e6wl
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kodaifm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kodaifm.jpg",Kodai FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/chitrafm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/chitrafm.jpg",Chitra
 https://stream.zeno.fm/aad4e51qz7zuv
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/illayarajafm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/illayarajafm.jpg",illayaraja
 https://stream-164.zeno.fm/pwm9y3eud5zuv
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/illayarajafmhq.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/illayarajafmhq.jpg",illayaraja HQ
 https://stream.zeno.fm/pwm9y3eud5zuv
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Thendralfm.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Thendralfm.png",Thendral Melody
 https://thenralw.radioca.st/LiveStream
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/harrisfm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/harrisfm.jpg",Harish
 https://stream-158.zeno.fm/0bhsthssutzuv
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/radiomirchi.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/radiomirchi.jpg",Radio Mirchi
 https://radios.crabdance.com:8002/1
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/suryanfm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/suryanfm.jpg",Suriyan FM
 https://radios.crabdance.com:8002/2
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/hellofm.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/hellofm.png",Hello FM
 https://radios.crabdance.com:8002/3
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bigfm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bigfm.jpg",Big FM
 https://radios.crabdance.com:8002/4
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/radiocityfm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/radiocityfm.jpg",Radio City
 https://radios.crabdance.com:8002/5
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/radiovaanam.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/radiovaanam.jpg",Radio Vaanam
 https://sathees.radioca.st/;stream.mp3
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/inbatamil.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/inbatamil.jpg",Inba Tamil Podcast
 https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dubamiltamilfm.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dubamiltamilfm.png",Dubai Tamil
 https://centova.aarenworld.com/proxy/894tamilfm/stream
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/illayaraja80sfm.jpg"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/illayaraja80sfm.jpg",illayaraja 80s
 https://stream-162.zeno.fm/48w230kx8vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0OHcyMzBreDh2enV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlFZWpuNU1mVDBXTGRyQVllZWVXSFEiLCJpYXQiOjE3NTk1MDA4NDcsImV4cCI6MTc1OTUwMDkwN30.xy3mAgtuZsqr0e2gLYmXFm27mzzpgJOPPhKTUQiomYI
 
 #EXTINF:0 tvg-id="" tvg-name="Raj Nagachuvai HQ" group-title="Tamil;KaniSsKa" tvg-chno="62" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Rajnagaichuvai.png",Raj Nagachuvai HQ
@@ -825,50 +825,50 @@ https://cdn-3.pishow.tv/live/1247/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Peppers Tv" group-title="Tamil;KaniSsKa" tvg-chno="260" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/peppers.png",Peppers Tv
 https://cdn-2.pishow.tv/live/1383/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrchennai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrchennai.png",FM Rainbow Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrkovai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrkovai.png",FM Rainbow Kovai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airkovai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airkovai.png",AIR Kovai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrtrichy.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrtrichy.png",FM Rainbow Trichy
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrmadurai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrmadurai.png",FM Rainbow Madurai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio126/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrtirunelveli.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrtirunelveli.png",FM Rainbow Tirunelveli
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kodaipanbalai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kodaipanbalai.png",Kodai Panbalai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airooty.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airooty.png",AIR Ooty
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airkaraikal.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airkaraikal.png",AIR Karaikal
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrdharmapuri.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrdharmapuri.png",FM Rainbow Dharmapuri
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airnagarkovil.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airnagarkovil.png",AIR Nagarkovil
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/master.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airtuticorin.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airtuticorin.png",AIR Tuticorin
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrpondi.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmrpondi.png",FM Rainbow Pudhucherry
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airpondi.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airpondi.png",Air Pudhucherry
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmgoldchennai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/fmgoldchennai.png",FM Gold Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
 
-#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vividhbharatichennai.png"
+#EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vividhbharatichennai.png",Vividh Bharati Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
