@@ -872,3 +872,24 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vividhbharatichennai.png",Vividh Bharati Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Anandham Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="261" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/anandhamtamil.jpg",Anandham Tata Play
+https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Dharshan Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="262" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dharsantamil.jpg",Dharshan Tata Play
+https://cable91tataplay.akamaized.net/live/dharshantv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="NTN Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="263" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntntv.jpg",NTN Tata Play
+https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Nijam Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="264" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Nijam.png",Nijam Tata Play
+https://cable90tataplay.akamaized.net/live/nijamtv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Suriyan Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="265" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/suriyantvtamil.jpg",Suriyan Tata Play
+https://cable86tataplay.akamaized.net/live/suriyantv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Subin Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="266" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/subintv.jpg",Subin Tata Play
+https://cable87tataplay.akamaized.net/live/subintv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="U Tv Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="267" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/utvtamil.jpg",U Tv Tata Play
+https://cable92tataplay.akamaized.net/live/utv/index.mpd
