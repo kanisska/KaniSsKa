@@ -893,3 +893,12 @@ https://cable87tataplay.akamaized.net/live/subintv/index.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="U Tv Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="267" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/utvtamil.jpg",U Tv Tata Play
 https://cable92tataplay.akamaized.net/live/utv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Aathavan" group-title="Tamil;KaniSsKa" tvg-chno="268" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aadhavantamiltv.jpg",Aathavan
+rtmp://live.onecloudlive.in:1935/hash/hash
+
+#EXTINF:0 tvg-id="" tvg-name="TET Tv" group-title="Tamil;KaniSsKa" tvg-chno="269" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tettv.png",TET Tv
+https://toober.keralive.workers.dev/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="7S Music" group-title="Tamil;KaniSsKa" tvg-chno="270" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/7smusic.png",7S Music
+https://fucking-tv-ott.keralive.workers.dev/mumt03/7SMUSIC/index.m3u8
