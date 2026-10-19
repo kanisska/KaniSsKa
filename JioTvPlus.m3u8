@@ -81,10 +81,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:0 tvg-id="" tvg-name="DD Sports Plus" group-title="English;Sports" tvg-chno="27" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports1.jpg",DD Sports Plus
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Tamil" group-title="Tamil;Others" tvg-chno="28" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil
+#EXTINF:0 tvg-id="" tvg-name="DD Tamil" group-title="Tamil;KaniSsKa" tvg-chno="28" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Tamil HQ" group-title="Tamil;Others" tvg-chno="29" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil HQ
+#EXTINF:0 tvg-id="" tvg-name="DD Tamil HQ" group-title="Tamil;KaniSsKa" tvg-chno="29" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil HQ
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Dharshan Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="30" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dharsantamil.jpg",Dharshan Tata Play
@@ -554,3 +554,12 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:0 tvg-id="" tvg-name="Ten PK Sports" group-title="English;Sports" tvg-chno="153" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/pksports.jpg",Ten PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8?lb_backend_hint=7
+
+#EXTINF:0 tvg-id="" tvg-name="A Sports" group-title="English;Sports" tvg-chno="154" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/A_Sports.png",A Sports
+http://103.151.60.162:2122/play/a02z/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Pappare 1" group-title="English;Sports" tvg-chno="155" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ThePapare1.png",Pappare 1
+http://103.151.60.162:2122/play/a0fm/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Pappare 2" group-title="English;Sports" tvg-chno="156" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ThePapare2.png",Pappare 2
+http://103.151.60.162:2122/play/a0fn/index.m3u8
