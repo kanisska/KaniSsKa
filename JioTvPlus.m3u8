@@ -9,253 +9,265 @@ https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="7S Music" group-title="Tamil;KaniSsKa" tvg-chno="3" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/7smusic.png",7S Music
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Aarya" group-title="Tamil;KaniSsKa" tvg-chno="4" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aaryaa.jpg",Aarya
+#EXTINF:0 tvg-id="" tvg-name="A Sports" group-title="English;Sports" tvg-chno="4" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/A_Sports.png",A Sports
+http://103.151.60.162:2122/play/a02z/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Aarya" group-title="Tamil;KaniSsKa" tvg-chno="5" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aaryaa.jpg",Aarya
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Aastha Tamil" group-title="Tamil;KaniSsKa" tvg-chno="5" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aasthatamil.jpg",Aastha Tamil
+#EXTINF:0 tvg-id="" tvg-name="Aastha Tamil" group-title="Tamil;KaniSsKa" tvg-chno="6" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aasthatamil.jpg",Aastha Tamil
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Adhavan Tv" group-title="Tamil;KaniSsKa" tvg-chno="6" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aadhavantamiltv.jpg",Adhavan Tv
+#EXTINF:0 tvg-id="" tvg-name="Adhavan Tv" group-title="Tamil;KaniSsKa" tvg-chno="7" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/aadhavantamiltv.jpg",Adhavan Tv
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:athavantv1.smil/chunklist_b2628000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="AFV Tv" group-title="Tamil;Kids" tvg-chno="7" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/afv.png",AFV Tv
+#EXTINF:0 tvg-id="" tvg-name="AFV Tv" group-title="Tamil;Kids" tvg-chno="8" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/afv.png",AFV Tv
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Akilam" group-title="Tamil;KaniSsKa" tvg-chno="8" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/akilamtamil.jpg",Akilam
+#EXTINF:0 tvg-id="" tvg-name="Akilam" group-title="Tamil;KaniSsKa" tvg-chno="9" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/akilamtamil.jpg",Akilam
 https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Amagi WildEarth Tv" group-title="English;KaniSsKa" tvg-chno="9" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wildearth.jpg",Amagi WildEarth Tv
+#EXTINF:0 tvg-id="" tvg-name="Amagi WildEarth Tv" group-title="English;KaniSsKa" tvg-chno="10" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wildearth.jpg",Amagi WildEarth Tv
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Anbu" group-title="Tamil;KaniSsKa" tvg-chno="10" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/anbutamil.jpg",Anbu
+#EXTINF:0 tvg-id="" tvg-name="Anbu" group-title="Tamil;KaniSsKa" tvg-chno="11" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/anbutamil.jpg",Anbu
 https://ipcloud.live/anbutv/anbutvhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Baby Shark" group-title="Tamil;Kids" tvg-chno="11" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/babyshark.jpg",Baby Shark
+#EXTINF:0 tvg-id="" tvg-name="Baby Shark" group-title="Tamil;Kids" tvg-chno="12" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/babyshark.jpg",Baby Shark
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Best Thriller" group-title="English;Movies" tvg-chno="12" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bestthriller.png",Best Thriller
+#EXTINF:0 tvg-id="" tvg-name="Best Thriller" group-title="English;Movies" tvg-chno="13" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bestthriller.png",Best Thriller
 https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Bigg Boss Live" group-title="Tamil;KaniSsKa" tvg-chno="13" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bblogo.jpg",Bigg Boss Live
+#EXTINF:0 tvg-id="" tvg-name="Bigg Boss Live" group-title="Tamil;KaniSsKa" tvg-chno="14" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/bblogo.jpg",Bigg Boss Live
 http://tv.cloudcdn.me/live.ts?channelId=132411&uid=16068&deviceMac=00:1A:79:31:34:0E
 
-#EXTINF:0 tvg-id="" tvg-name="Blacksheep Tv" group-title="Tamil;KaniSsKa" tvg-chno="14" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/blacksheeptv.jpg",Blacksheep Tv
+#EXTINF:0 tvg-id="" tvg-name="Blacksheep Tv" group-title="Tamil;KaniSsKa" tvg-chno="15" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/blacksheeptv.jpg",Blacksheep Tv
 https://cdn-6.pishow.tv/live/1243/1243_2.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Boys" group-title="Tamil;KaniSsKa" tvg-chno="15" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/boystv.jpg",Boys
+#EXTINF:0 tvg-id="" tvg-name="Boys" group-title="Tamil;KaniSsKa" tvg-chno="16" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/boystv.jpg",Boys
 https://rtmp.applelive.in/boystv/boystv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Chithiram Tv" group-title="Tamil;KaniSsKa" tvg-chno="16" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/chithiramtv.jpg",Chithiram Tv
+#EXTINF:0 tvg-id="" tvg-name="Chithiram Tv" group-title="Tamil;KaniSsKa" tvg-chno="17" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/chithiramtv.jpg",Chithiram Tv
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="CNN International HD" group-title="English;KaniSsKa" tvg-chno="17" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nicktoons.jpg",CNN International HD
+#EXTINF:0 tvg-id="" tvg-name="CNN International HD" group-title="English;KaniSsKa" tvg-chno="18" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nicktoons.jpg",CNN International HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Colors Tamil" group-title="Tamil;KaniSsKa" tvg-chno="18" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/colorstamil.png",Colors Tamil
+#EXTINF:0 tvg-id="" tvg-name="Colors Tamil" group-title="Tamil;KaniSsKa" tvg-chno="19" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/colorstamil.png",Colors Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="CTN" group-title="Tamil;KaniSsKa" tvg-chno="19" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ctnsalem.jpg",CTN
+#EXTINF:0 tvg-id="" tvg-name="CTN" group-title="Tamil;KaniSsKa" tvg-chno="20" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ctnsalem.jpg",CTN
 https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="CW Forever" group-title="English;Movies" tvg-chno="20" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cwforever.png",CW Forever
+#EXTINF:0 tvg-id="" tvg-name="CW Forever" group-title="English;Movies" tvg-chno="21" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cwforever.png",CW Forever
 https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="CW Gold" group-title="English;Movies" tvg-chno="21" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cwgold.png",CW Gold
+#EXTINF:0 tvg-id="" tvg-name="CW Gold" group-title="English;Movies" tvg-chno="22" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/cwgold.png",CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="d Tv" group-title="Tamil;KaniSsKa" tvg-chno="22" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dtvtamil.jpg",d Tv
+#EXTINF:0 tvg-id="" tvg-name="d Tv" group-title="Tamil;KaniSsKa" tvg-chno="23" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dtvtamil.jpg",d Tv
 https://stream.d6-pro.com/Dtv/live/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Dark Tv" group-title="Tamil;KaniSsKa" tvg-chno="23" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/darktv.jpg",Dark Tv
+#EXTINF:0 tvg-id="" tvg-name="Dark Tv" group-title="Tamil;KaniSsKa" tvg-chno="24" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/darktv.jpg",Dark Tv
 https://play.applelive.in/darktv/darktv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Darshan" group-title="Tamil;KaniSsKa" tvg-chno="24" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/darshantv.jpg",Darshan
+#EXTINF:0 tvg-id="" tvg-name="Darshan" group-title="Tamil;KaniSsKa" tvg-chno="25" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/darshantv.jpg",Darshan
 https://galaxyott.live/hls/dharshantv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Sports" group-title="English;Sports" tvg-chno="25" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports.jpg",DD Sports
+#EXTINF:0 tvg-id="" tvg-name="DD Sports" group-title="English;Sports" tvg-chno="26" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_6.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Sports HQ" group-title="English;Sports" tvg-chno="26" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports.jpg",DD Sports HQ
+#EXTINF:0 tvg-id="" tvg-name="DD Sports Add" group-title="English;Sports" tvg-chno="27" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports2.jpg",DD Sports Add
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="DD Sports HQ" group-title="English;Sports" tvg-chno="28" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports.jpg",DD Sports HQ
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Sports Plus" group-title="English;Sports" tvg-chno="27" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports1.jpg",DD Sports Plus
+#EXTINF:0 tvg-id="" tvg-name="DD Sports Plus" group-title="English;Sports" tvg-chno="29" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports1.jpg",DD Sports Plus
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Tamil" group-title="Tamil;KaniSsKa" tvg-chno="28" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil
+#EXTINF:0 tvg-id="" tvg-name="DD Tamil" group-title="Tamil;KaniSsKa" tvg-chno="30" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_5.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DD Tamil HQ" group-title="Tamil;KaniSsKa" tvg-chno="29" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil HQ
+#EXTINF:0 tvg-id="" tvg-name="DD Tamil HQ" group-title="Tamil;KaniSsKa" tvg-chno="31" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddtamil.png",DD Tamil HQ
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Dharshan Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="30" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dharsantamil.jpg",Dharshan Tata Play
+#EXTINF:0 tvg-id="" tvg-name="Dharshan Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="32" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dharsantamil.jpg",Dharshan Tata Play
 https://cable91tataplay.akamaized.net/live/dharshantv/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="Dheeran Tv" group-title="Tamil;KaniSsKa" tvg-chno="31" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dheerantv.jpg",Dheeran Tv
+#EXTINF:0 tvg-id="" tvg-name="Dheeran Tv" group-title="Tamil;KaniSsKa" tvg-chno="33" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/dheerantv.jpg",Dheeran Tv
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Durai" group-title="Tamil;KaniSsKa" tvg-chno="32" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/duraitamil.jpg",Durai
+#EXTINF:0 tvg-id="" tvg-name="Durai" group-title="Tamil;KaniSsKa" tvg-chno="34" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/duraitamil.jpg",Durai
 https://ipcloud.live/duraitv/live/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Eagle" group-title="Tamil;KaniSsKa" tvg-chno="33" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eagletamil.jpg",Eagle
+#EXTINF:0 tvg-id="" tvg-name="Eagle" group-title="Tamil;KaniSsKa" tvg-chno="35" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eagletamil.jpg",Eagle
 https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Eagle Tv" group-title="Tamil;KaniSsKa" tvg-chno="34" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eagletv.jpg",Eagle Tv
+#EXTINF:0 tvg-id="" tvg-name="Eagle Tv" group-title="Tamil;KaniSsKa" tvg-chno="36" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eagletv.jpg",Eagle Tv
 https://ipcloud.live/eaglemedia/eagletv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="EET" group-title="Tamil;KaniSsKa" tvg-chno="35" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eetlanka.jpg",EET
+#EXTINF:0 tvg-id="" tvg-name="EET" group-title="Tamil;KaniSsKa" tvg-chno="37" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eetlanka.jpg",EET
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="EET Tv" group-title="Tamil;KaniSsKa" tvg-chno="36" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eet.jpg",EET Tv
+#EXTINF:0 tvg-id="" tvg-name="EET Tv" group-title="Tamil;KaniSsKa" tvg-chno="38" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/eet.jpg",EET Tv
 https://live.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Emperor Tv" group-title="Tamil;KaniSsKa" tvg-chno="37" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/emperortv.jpg",Emperor Tv
+#EXTINF:0 tvg-id="" tvg-name="Emperor Tv" group-title="Tamil;KaniSsKa" tvg-chno="39" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/emperortv.jpg",Emperor Tv
 https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FilmRise Horror" group-title="English;Movies" tvg-chno="38" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/filmrisehorror.png",FilmRise Horror
+#EXTINF:0 tvg-id="" tvg-name="FilmRise Horror" group-title="English;Movies" tvg-chno="40" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/filmrisehorror.png",FilmRise Horror
 https://d3fmqi91qduj7.cloudfront.net/11401/88814513/hls/master.m3u8?ads.xumo_channelId=88814513&ads.xumo_streamId=88814513
 
-#EXTINF:0 tvg-id="" tvg-name="Gem" group-title="Tamil;KaniSsKa" tvg-chno="39" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/gemtv.jpg",Gem
+#EXTINF:0 tvg-id="" tvg-name="Gem" group-title="Tamil;KaniSsKa" tvg-chno="41" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/gemtv.jpg",Gem
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Hai" group-title="Tamil;KaniSsKa" tvg-chno="40" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/haitamil.jpg",Hai
+#EXTINF:0 tvg-id="" tvg-name="Hai" group-title="Tamil;KaniSsKa" tvg-chno="42" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/haitamil.jpg",Hai
 https://play.applelive.in/haitv/haitv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Harin" group-title="Tamil;KaniSsKa" tvg-chno="41" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/harintv.jpg",Harin
+#EXTINF:0 tvg-id="" tvg-name="Harin" group-title="Tamil;KaniSsKa" tvg-chno="43" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/harintv.jpg",Harin
 https://ipcloud.live/harintv/harintvhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="IBC Bakthi" group-title="Tamil;Devotional" tvg-chno="42" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ibcbakthi.jpg",IBC Bakthi
+#EXTINF:0 tvg-id="" tvg-name="IBC Bakthi" group-title="Tamil;Devotional" tvg-chno="44" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ibcbakthi.jpg",IBC Bakthi
 https://ibc.massstream.net/IBC/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="IBC Tamil Lanka" group-title="Tamil;KaniSsKa" tvg-chno="43" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ibctamil.jpg",IBC Tamil Lanka
+#EXTINF:0 tvg-id="" tvg-name="IBC Tamil Lanka" group-title="Tamil;KaniSsKa" tvg-chno="45" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ibctamil.jpg",IBC Tamil Lanka
 https://ibc.massstream.net/IBC/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="India Today" group-title="English;KaniSsKa" tvg-chno="44" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeenews.jpg",India Today
+#EXTINF:0 tvg-id="" tvg-name="India Today" group-title="English;KaniSsKa" tvg-chno="46" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeenews.jpg",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Irattai Paathai" group-title="Tamil;KaniSsKa" tvg-chno="45" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/irattaipaathai.jpg",Irattai Paathai
+#EXTINF:0 tvg-id="" tvg-name="Irattai Paathai" group-title="Tamil;KaniSsKa" tvg-chno="47" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/irattaipaathai.jpg",Irattai Paathai
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Isai" group-title="Tamil;KaniSsKa" tvg-chno="46" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaitv.jpg",Isai
+#EXTINF:0 tvg-id="" tvg-name="Isai" group-title="Tamil;KaniSsKa" tvg-chno="48" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaitv.jpg",Isai
 https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Isai Aruvi" group-title="Tamil;KaniSsKa" tvg-chno="47" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaiaruvi.jpg",Isai Aruvi
+#EXTINF:0 tvg-id="" tvg-name="Isai Aruvi" group-title="Tamil;KaniSsKa" tvg-chno="49" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaiaruvi.jpg",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Isai Aruvi Yupp" group-title="Tamil;KaniSsKa" tvg-chno="48" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaiaruvi.jpg",Isai Aruvi Yupp
+#EXTINF:0 tvg-id="" tvg-name="Isai Aruvi Yupp" group-title="Tamil;KaniSsKa" tvg-chno="50" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/isaiaruvi.jpg",Isai Aruvi Yupp
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Jayaam Tv" group-title="Tamil;KaniSsKa" tvg-chno="49" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Jayaam.png",Jayaam Tv
+#EXTINF:0 tvg-id="" tvg-name="Jayaam Tv" group-title="Tamil;KaniSsKa" tvg-chno="51" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Jayaam.png",Jayaam Tv
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Jayam Tv Namakal" group-title="Tamil;KaniSsKa" tvg-chno="50" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jayamnamakkal.jpg",Jayam Tv Namakal
+#EXTINF:0 tvg-id="" tvg-name="Jayam Tv Namakal" group-title="Tamil;KaniSsKa" tvg-chno="52" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jayamnamakkal.jpg",Jayam Tv Namakal
 https://rtmp.bmlive.net/bms/jayamtv/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="JCV" group-title="Tamil;KaniSsKa" tvg-chno="51" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jcvtamil.jpg",JCV
+#EXTINF:0 tvg-id="" tvg-name="JCV" group-title="Tamil;KaniSsKa" tvg-chno="53" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jcvtamil.jpg",JCV
 https://play.applelive.in/jcvtv/jcvtv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="JCV Music" group-title="Tamil;KaniSsKa" tvg-chno="52" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jcvmusix.jpg",JCV Music
+#EXTINF:0 tvg-id="" tvg-name="JCV Music" group-title="Tamil;KaniSsKa" tvg-chno="54" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jcvmusix.jpg",JCV Music
 https://play.applelive.in/jcvtv/jcvmusix.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Jith" group-title="Tamil;KaniSsKa" tvg-chno="53" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jithtv.jpg",Jith
+#EXTINF:0 tvg-id="" tvg-name="Jith" group-title="Tamil;KaniSsKa" tvg-chno="55" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jithtv.jpg",Jith
 https://sscloud7.com/live/jithtv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="JRP Tv" group-title="Tamil;KaniSsKa" tvg-chno="54" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jrptv.jpg",JRP Tv
+#EXTINF:0 tvg-id="" tvg-name="JRP Tv" group-title="Tamil;KaniSsKa" tvg-chno="56" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/jrptv.jpg",JRP Tv
 https://ipcloud.live/jrptv/jrphd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Kalaignar Yupp" group-title="Tamil;KaniSsKa" tvg-chno="55" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kalaignaryupp.png",Kalaignar Yupp
+#EXTINF:0 tvg-id="" tvg-name="Kalaignar Yupp" group-title="Tamil;KaniSsKa" tvg-chno="57" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kalaignaryupp.png",Kalaignar Yupp
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Kani News 18 Tamil" group-title="Tamil;News" tvg-chno="56" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/news18tamil.jpg",Kani News 18 Tamil
+#EXTINF:0 tvg-id="" tvg-name="Kani News 18 Tamil" group-title="Tamil;News" tvg-chno="58" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/news18tamil.jpg",Kani News 18 Tamil
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Kani News 7 Tamil" group-title="Tamil;News" tvg-chno="57" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/news7tamil.jpg",Kani News 7 Tamil
+#EXTINF:0 tvg-id="" tvg-name="Kani News 7 Tamil" group-title="Tamil;News" tvg-chno="59" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/news7tamil.jpg",Kani News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Kani Polimer News" group-title="Tamil;News" tvg-chno="58" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/polimernews.jpg",Kani Polimer News
+#EXTINF:0 tvg-id="" tvg-name="Kani Polimer News" group-title="Tamil;News" tvg-chno="60" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/polimernews.jpg",Kani Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Karthick" group-title="Tamil;KaniSsKa" tvg-chno="59" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/karthicktv.jpg",Karthick
+#EXTINF:0 tvg-id="" tvg-name="Karthick" group-title="Tamil;KaniSsKa" tvg-chno="61" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/karthicktv.jpg",Karthick
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="KC" group-title="Tamil;KaniSsKa" tvg-chno="60" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kctv.jpg",KC
+#EXTINF:0 tvg-id="" tvg-name="KC" group-title="Tamil;KaniSsKa" tvg-chno="62" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kctv.jpg",KC
 https://rtmp.bmlive.net/bms/kctv/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="KCM" group-title="English;Movies" tvg-chno="61" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kcm.png",KCM
+#EXTINF:0 tvg-id="" tvg-name="KCM" group-title="English;Movies" tvg-chno="63" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kcm.png",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Kumari" group-title="Tamil;KaniSsKa" tvg-chno="62" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kumari.jpg",Kumari
+#EXTINF:0 tvg-id="" tvg-name="Kumari" group-title="Tamil;KaniSsKa" tvg-chno="64" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kumari.jpg",Kumari
 https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="M Television" group-title="Tamil;KaniSsKa" tvg-chno="63" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mtamil.jpg",M Television
+#EXTINF:0 tvg-id="" tvg-name="M Television" group-title="Tamil;KaniSsKa" tvg-chno="65" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mtamil.jpg",M Television
 https://ipcloud.live/mtv/menhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="M Tv" group-title="Hindi;KaniSsKa" tvg-chno="64" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mtvm.png",M Tv
+#EXTINF:0 tvg-id="" tvg-name="M Tv" group-title="Hindi;KaniSsKa" tvg-chno="66" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mtvm.png",M Tv
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Madha" group-title="Tamil;Devotional" tvg-chno="65" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/madhatv.jpg",Madha
+#EXTINF:0 tvg-id="" tvg-name="Madha" group-title="Tamil;Devotional" tvg-chno="67" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/madhatv.jpg",Madha
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Manasu" group-title="Tamil;KaniSsKa" tvg-chno="66" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/manasutv.jpg",Manasu
+#EXTINF:0 tvg-id="" tvg-name="Manasu" group-title="Tamil;KaniSsKa" tvg-chno="68" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/manasutv.jpg",Manasu
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Marutam Nelli Tv" group-title="Tamil;KaniSsKa" tvg-chno="67" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mntv.jpg",Marutam Nelli Tv
+#EXTINF:0 tvg-id="" tvg-name="Marutam Nelli Tv" group-title="Tamil;KaniSsKa" tvg-chno="69" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mntv.jpg",Marutam Nelli Tv
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Mass Tv HD" group-title="Tamil;KaniSsKa" tvg-chno="68" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/masstv.png",Mass Tv HD
+#EXTINF:0 tvg-id="" tvg-name="Mass Tv HD" group-title="Tamil;KaniSsKa" tvg-chno="70" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/masstv.png",Mass Tv HD
 https://tv2.massstream.net/Masstv-web/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="MCN" group-title="Tamil;KaniSsKa" tvg-chno="69" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mcn.jpg",MCN
+#EXTINF:0 tvg-id="" tvg-name="MCN" group-title="Tamil;KaniSsKa" tvg-chno="71" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mcn.jpg",MCN
 https://play.applelive.in/mcntv/mcntv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="MK Six" group-title="Tamil;KaniSsKa" tvg-chno="70" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mksix.jpg",MK Six
+#EXTINF:0 tvg-id="" tvg-name="MK Six" group-title="Tamil;KaniSsKa" tvg-chno="72" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/mksix.jpg",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Murasu Tv" group-title="Tamil;KaniSsKa" tvg-chno="71" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv
+#EXTINF:0 tvg-id="" tvg-name="Murasu Tv" group-title="Tamil;KaniSsKa" tvg-chno="73" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Murasu Tv HQ" group-title="Tamil;KaniSsKa" tvg-chno="72" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv HQ
+#EXTINF:0 tvg-id="" tvg-name="Murasu Tv HQ" group-title="Tamil;KaniSsKa" tvg-chno="74" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv HQ
 https://segment.yuppcdn.net/050522/murasu/050522/murasu_1800/chunks.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Murasu Tv Yupp" group-title="Tamil;KaniSsKa" tvg-chno="73" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv Yupp
+#EXTINF:0 tvg-id="" tvg-name="Murasu Tv Yupp" group-title="Tamil;KaniSsKa" tvg-chno="75" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/murasutv.png",Murasu Tv Yupp
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="N Tv" group-title="Tamil;KaniSsKa" tvg-chno="74" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntvhs.jpg",N Tv
+#EXTINF:0 tvg-id="" tvg-name="N Tv" group-title="Tamil;KaniSsKa" tvg-chno="76" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntvhs.jpg",N Tv
 https://galaxyott.live//hls/ntv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="NDTV Lanka" group-title="Tamil;KaniSsKa" tvg-chno="75" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ndtvlanka.jpg",NDTV Lanka
+#EXTINF:0 tvg-id="" tvg-name="NDTV Lanka" group-title="Tamil;KaniSsKa" tvg-chno="77" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ndtvlanka.jpg",NDTV Lanka
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Nellai" group-title="Tamil;KaniSsKa" tvg-chno="76" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nellaitamil.jpg",Nellai
+#EXTINF:0 tvg-id="" tvg-name="Nellai" group-title="Tamil;KaniSsKa" tvg-chno="78" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nellaitamil.jpg",Nellai
 https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Nijam Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="77" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Nijam.png",Nijam Tata Play
+#EXTINF:0 tvg-id="" tvg-name="Nijam Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="79" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Nijam.png",Nijam Tata Play
 https://cable90tataplay.akamaized.net/live/nijamtv/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="Nila Tv" group-title="Tamil;KaniSsKa" tvg-chno="78" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nilatamil.jpg",Nila Tv
+#EXTINF:0 tvg-id="" tvg-name="Nila Tv" group-title="Tamil;KaniSsKa" tvg-chno="80" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/nilatamil.jpg",Nila Tv
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="NTN Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="79" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntntv.jpg",NTN Tata Play
+#EXTINF:0 tvg-id="" tvg-name="NTN Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="81" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntntv.jpg",NTN Tata Play
 https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="NTN Tv" group-title="Tamil;KaniSsKa" tvg-chno="80" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntntv.jpg",NTN Tv
+#EXTINF:0 tvg-id="" tvg-name="NTN Tv" group-title="Tamil;KaniSsKa" tvg-chno="82" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ntntv.jpg",NTN Tv
 https://live.skystream.in/live/ntntv/index.m3u8?hls_ctx=1314owa2
 
-#EXTINF:0 tvg-id="" tvg-name="Oli Tv" group-title="Tamil;KaniSsKa" tvg-chno="81" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/olitamil.jpg",Oli Tv
+#EXTINF:0 tvg-id="" tvg-name="Oli Tv" group-title="Tamil;KaniSsKa" tvg-chno="83" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/olitamil.jpg",Oli Tv
 https://live.olidigital.in/olitv/olitv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="P Tv Sports" group-title="English;Sports" tvg-chno="82" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ptvsports.jpg",P Tv Sports
+#EXTINF:0 tvg-id="" tvg-name="P Tv Sports" group-title="English;Sports" tvg-chno="84" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ptvsports.jpg",P Tv Sports
 http://103.151.60.162:2122/play/a0f9/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Params" group-title="Tamil;KaniSsKa" tvg-chno="83" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/paramstamil.jpg",Params
+#EXTINF:0 tvg-id="" tvg-name="Pappare 1" group-title="English;Sports" tvg-chno="85" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ThePapare1.png",Pappare 1
+http://103.151.60.162:2122/play/a0fm/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Pappare 2" group-title="English;Sports" tvg-chno="86" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ThePapare2.png",Pappare 2
+http://103.151.60.162:2122/play/a0fn/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Params" group-title="Tamil;KaniSsKa" tvg-chno="87" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/paramstamil.jpg",Params
 https://app.ashokadigital.net/app/a3e0b02f/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Peppers Tv" group-title="Tamil;KaniSsKa" tvg-chno="84" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/peppers.png",Peppers Tv
+#EXTINF:0 tvg-id="" tvg-name="Peppers Tv" group-title="Tamil;KaniSsKa" tvg-chno="88" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/peppers.png",Peppers Tv
 https://cdn-2.pishow.tv/live/1383/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Phoenix" group-title="Tamil;KaniSsKa" tvg-chno="85" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/phoenix.jpg",Phoenix
+#EXTINF:0 tvg-id="" tvg-name="Phoenix" group-title="Tamil;KaniSsKa" tvg-chno="89" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/phoenix.jpg",Phoenix
 https://stream.onecloudlive.in/phoenixtv/phoenixtv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Prime" group-title="Tamil;KaniSsKa" tvg-chno="86" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/primetv.jpg",Prime
+#EXTINF:0 tvg-id="" tvg-name="Prime" group-title="Tamil;KaniSsKa" tvg-chno="90" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/primetv.jpg",Prime
 https://live.applelive.in/primetv/primetv/index.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/airkaraikal.png",Radio AIR Karaikal
@@ -354,212 +366,209 @@ https://stream.vaanamfm.com/listen/ilayaraja/radio.mp3
 #EXTINF:-1 radio="true" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vividhbharatichennai.png",Radio Vividh Bharati Chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Raga" group-title="Tamil;KaniSsKa" tvg-chno="87" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ragatv.jpg",Raga
+#EXTINF:0 tvg-id="" tvg-name="Raga" group-title="Tamil;KaniSsKa" tvg-chno="91" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ragatv.jpg",Raga
 https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Raj Nagachuvai" group-title="Tamil;KaniSsKa" tvg-chno="88" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Rajnagaichuvai.png",Raj Nagachuvai
+#EXTINF:0 tvg-id="" tvg-name="Raj Musix" group-title="Tamil;KaniSsKa" tvg-chno="92" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/RajMusix.png",Raj Musix
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/chunklist_0.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Raj Nagachuvai" group-title="Tamil;KaniSsKa" tvg-chno="93" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Rajnagaichuvai.png",Raj Nagachuvai
 http://tv.cloudcdn.me:80/live.ts?channelId=89834&uid=19260&deviceMac=00:1A:79:00:02:27
 
-#EXTINF:0 tvg-id="" tvg-name="Riya" group-title="Tamil;KaniSsKa" tvg-chno="89" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/riyatv.jpg",Riya
+#EXTINF:0 tvg-id="" tvg-name="Riya" group-title="Tamil;KaniSsKa" tvg-chno="94" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/riyatv.jpg",Riya
 https://play.applelive.in/riyatv/riyatv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Rock" group-title="Tamil;KaniSsKa" tvg-chno="90" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rocktv.jpg",Rock
+#EXTINF:0 tvg-id="" tvg-name="Rock" group-title="Tamil;KaniSsKa" tvg-chno="95" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rocktv.jpg",Rock
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Roja" group-title="Tamil;KaniSsKa" tvg-chno="91" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rojatv.jpg",Roja
+#EXTINF:0 tvg-id="" tvg-name="Roja" group-title="Tamil;KaniSsKa" tvg-chno="96" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rojatv.jpg",Roja
 https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Roja Movies" group-title="Tamil;KaniSsKa" tvg-chno="92" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rojamovies.jpg",Roja Movies
+#EXTINF:0 tvg-id="" tvg-name="Roja Movies" group-title="Tamil;KaniSsKa" tvg-chno="97" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/rojamovies.jpg",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sakthi" group-title="Tamil;KaniSsKa" tvg-chno="93" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sakthitvhd.jpg",Sakthi
+#EXTINF:0 tvg-id="" tvg-name="Sakthi" group-title="Tamil;KaniSsKa" tvg-chno="98" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sakthitvhd.jpg",Sakthi
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Samugam Tv" group-title="Tamil;KaniSsKa" tvg-chno="94" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/samugam.png",Samugam Tv
+#EXTINF:0 tvg-id="" tvg-name="Samugam Tv" group-title="Tamil;KaniSsKa" tvg-chno="99" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/samugam.png",Samugam Tv
 https://ca.streamjo.com/live/samugam.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sana Plus HD" group-title="Tamil;KaniSsKa" tvg-chno="95" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanaplushd.jpg",Sana Plus HD
+#EXTINF:0 tvg-id="" tvg-name="Sana Plus HD" group-title="Tamil;KaniSsKa" tvg-chno="100" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanaplushd.jpg",Sana Plus HD
 https://galaxyott.live//hls/sanaplus.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sana Plus Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="96" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanaplus.jpg",Sana Plus Tata Play
+#EXTINF:0 tvg-id="" tvg-name="Sana Plus Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="101" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanaplus.jpg",Sana Plus Tata Play
 https://cable75tataplay.akamaized.net/dash/sanaplus.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="Sana Tv HD" group-title="Tamil;KaniSsKa" tvg-chno="97" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanatvhd.jpg",Sana Tv HD
+#EXTINF:0 tvg-id="" tvg-name="Sana Tv HD" group-title="Tamil;KaniSsKa" tvg-chno="102" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanatvhd.jpg",Sana Tv HD
 https://galaxyott.live//hls/sanatv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sana Tv Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="98" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanatv.png",Sana Tv Tata Play
+#EXTINF:0 tvg-id="" tvg-name="Sana Tv Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="103" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sanatv.png",Sana Tv Tata Play
 https://cable75tataplay.akamaized.net/dash/sanatv.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="Sha" group-title="Tamil;KaniSsKa" tvg-chno="99" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/shatv.jpg",Sha
+#EXTINF:0 tvg-id="" tvg-name="Sha" group-title="Tamil;KaniSsKa" tvg-chno="104" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/shatv.jpg",Sha
 https://play.applelive.in/shatv/shatv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Shalini" group-title="Tamil;KaniSsKa" tvg-chno="100" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/shalinitv.jpg",Shalini
+#EXTINF:0 tvg-id="" tvg-name="Shalini" group-title="Tamil;KaniSsKa" tvg-chno="105" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/shalinitv.jpg",Shalini
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Siripoli" group-title="Tamil;KaniSsKa" tvg-chno="101" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/siripoli.jpg",Siripoli
+#EXTINF:0 tvg-id="" tvg-name="Siripoli" group-title="Tamil;KaniSsKa" tvg-chno="106" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/siripoli.jpg",Siripoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Siripoli HQ" group-title="Tamil;KaniSsKa" tvg-chno="102" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/siripoli.jpg",Siripoli HQ
+#EXTINF:0 tvg-id="" tvg-name="Siripoli HQ" group-title="Tamil;KaniSsKa" tvg-chno="107" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/siripoli.jpg",Siripoli HQ
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/c4e6500f-ea05-4226-810e-2833ee0075ff/0.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sivan Tv" group-title="Tamil;Devotional" tvg-chno="103" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sivan.jpg",Sivan Tv
+#EXTINF:0 tvg-id="" tvg-name="Sivan Tv" group-title="Tamil;Devotional" tvg-chno="108" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sivan.jpg",Sivan Tv
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="SMCV" group-title="Tamil;KaniSsKa" tvg-chno="104" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/smcv.jpg",SMCV
+#EXTINF:0 tvg-id="" tvg-name="SMCV" group-title="Tamil;KaniSsKa" tvg-chno="109" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/smcv.jpg",SMCV
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Movies" group-title="English;Movies" tvg-chno="105" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sonymovies.png",Sony Movies
+#EXTINF:0 tvg-id="" tvg-name="Sony Movies" group-title="English;Movies" tvg-chno="110" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sonymovies.png",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony One Comedy" group-title="English;Movies" tvg-chno="106" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sonyonecomedy.png",Sony One Comedy
+#EXTINF:0 tvg-id="" tvg-name="Sony One Comedy" group-title="English;Movies" tvg-chno="111" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sonyonecomedy.png",Sony One Comedy
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Ten 1" group-title="English;Sports" tvg-chno="107" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten1.jpg",Sony Ten 1
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 1" group-title="English;Sports" tvg-chno="112" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten1.jpg",Sony Ten 1
 http://103.151.60.162:2122/play/a01c/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Ten 2" group-title="English;Sports" tvg-chno="108" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten2.jpg",Sony Ten 2
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 2" group-title="English;Sports" tvg-chno="113" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten2.jpg",Sony Ten 2
 http://103.151.60.162:2122/play/a01b/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Ten 3" group-title="English;Sports" tvg-chno="109" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten3.jpg",Sony Ten 3
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 3" group-title="English;Sports" tvg-chno="114" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten3.jpg",Sony Ten 3
 http://103.151.60.162:2122/play/a01t/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Ten 4" group-title="English;Sports" tvg-chno="110" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten4.jpg",Sony Ten 4
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 4" group-title="English;Sports" tvg-chno="115" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten4.jpg",Sony Ten 4
 http://103.151.60.162:2122/play/a021/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Ten 5" group-title="English;Sports" tvg-chno="111" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten5.jpg",Sony Ten 5
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 5" group-title="English;Sports" tvg-chno="116" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten5.jpg",Sony Ten 5
 http://103.151.60.162:2122/play/a028/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sooriyan Tv" group-title="Tamil;KaniSsKa" tvg-chno="112" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sooriyan.jpg",Sooriyan Tv
+#EXTINF:0 tvg-id="" tvg-name="Sooriyan Tv" group-title="Tamil;KaniSsKa" tvg-chno="117" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sooriyan.jpg",Sooriyan Tv
 http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="SS Tv" group-title="Tamil;KaniSsKa" tvg-chno="113" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sstvo.jpg",SS Tv
+#EXTINF:0 tvg-id="" tvg-name="SS Tv" group-title="Tamil;KaniSsKa" tvg-chno="118" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/sstvo.jpg",SS Tv
 https://server.sscloud7.in/live/sshd/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Star Colors" group-title="Tamil;KaniSsKa" tvg-chno="114" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/colorstamil1.jpg",Star Colors
+#EXTINF:0 tvg-id="" tvg-name="Star Colors" group-title="Tamil;KaniSsKa" tvg-chno="119" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/colorstamil1.jpg",Star Colors
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/chunklist_b2628000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Star Sports 2" group-title="English;Sports" tvg-chno="115" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starsports.jpg",Star Sports 2
+#EXTINF:0 tvg-id="" tvg-name="Star Sports 2" group-title="English;Sports" tvg-chno="120" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starsports.jpg",Star Sports 2
 http://103.151.60.162:2122/play/a00v/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Star Sports Select 1" group-title="English;Sports" tvg-chno="116" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starsportsselect.jpg",Star Sports Select 1
+#EXTINF:0 tvg-id="" tvg-name="Star Sports Select 1" group-title="English;Sports" tvg-chno="121" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starsportsselect.jpg",Star Sports Select 1
 http://103.151.60.162:2122/play/a026/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Star Sports Select 2" group-title="English;Sports" tvg-chno="117" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starsportsselect.jpg",Star Sports Select 2
+#EXTINF:0 tvg-id="" tvg-name="Star Sports Select 2" group-title="English;Sports" tvg-chno="122" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starsportsselect.jpg",Star Sports Select 2
 http://103.151.60.162:2122/play/a027/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Star Vijay" group-title="Tamil;KaniSsKa" tvg-chno="118" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starvijay.jpg",Star Vijay
+#EXTINF:0 tvg-id="" tvg-name="Star Vijay" group-title="Tamil;KaniSsKa" tvg-chno="123" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/starvijay.jpg",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/chunklist_b2628000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="STN Tv" group-title="Tamil;KaniSsKa" tvg-chno="119" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/stntv.jpg",STN Tv
+#EXTINF:0 tvg-id="" tvg-name="STN Tv" group-title="Tamil;KaniSsKa" tvg-chno="124" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/stntv.jpg",STN Tv
 https://play.applelive.in/stntv/stntv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Subin" group-title="Tamil;KaniSsKa" tvg-chno="120" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/subintv.jpg",Subin
+#EXTINF:0 tvg-id="" tvg-name="Subin" group-title="Tamil;KaniSsKa" tvg-chno="125" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/subintv.jpg",Subin
 https://stream.galaxyott.live/live/subintv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Subin Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="121" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/subintv.jpg",Subin Tata Play
+#EXTINF:0 tvg-id="" tvg-name="Subin Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="126" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/subintv.jpg",Subin Tata Play
 https://cable87tataplay.akamaized.net/live/subintv/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="Surya Tv" group-title="Tamil;KaniSsKa" tvg-chno="122" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/suryatamil.jpg",Surya Tv
+#EXTINF:0 tvg-id="" tvg-name="Surya Tv" group-title="Tamil;KaniSsKa" tvg-chno="127" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/suryatamil.jpg",Surya Tv
 https://galaxyott.live/hls//suryatv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="SVBC TTD Tamil" group-title="Tamil;Devotional" tvg-chno="123" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ttd.jpg",SVBC TTD Tamil
+#EXTINF:0 tvg-id="" tvg-name="SVBC TTD Tamil" group-title="Tamil;Devotional" tvg-chno="128" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ttd.jpg",SVBC TTD Tamil
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="T Sports" group-title="English;Sports" tvg-chno="124" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tsports.jpg",T Sports
+#EXTINF:0 tvg-id="" tvg-name="T Sports" group-title="English;Sports" tvg-chno="129" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tsports.jpg",T Sports
 http://103.151.60.162:2122/play/a030/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Tamil Oli" group-title="Tamil;KaniSsKa" tvg-chno="125" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tamiloli.jpg",Tamil Oli
+#EXTINF:0 tvg-id="" tvg-name="Tamil Oli" group-title="Tamil;KaniSsKa" tvg-chno="130" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tamiloli.jpg",Tamil Oli
 https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Ten Cricket" group-title="English;Sports" tvg-chno="126" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tencricket.jpg",Ten Cricket
+#EXTINF:0 tvg-id="" tvg-name="Ten Cricket" group-title="English;Sports" tvg-chno="131" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tencricket.jpg",Ten Cricket
 http://103.151.60.162:2122/play/a0fj/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Thalaa Tv" group-title="Tamil;KaniSsKa" tvg-chno="127" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/thalaatv.jpg",Thalaa Tv
-https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Tharun Movies" group-title="Tamil;KaniSsKa" tvg-chno="128" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tharunmovies.jpg",Tharun Movies
-https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Time Tv" group-title="Tamil;KaniSsKa" tvg-chno="129" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/timetv.jpg",Time Tv
-https://live.olidigital.in/timetv/timetv/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Tvi" group-title="Tamil;KaniSsKa" tvg-chno="130" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvi.png",Tvi
-https://live.cmr24.fm/TVI/SD/chunks.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="TVI HD" group-title="Tamil;KaniSsKa" tvg-chno="131" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvihd.jpg",TVI HD
-https://live.cmr24.fm/TVI/HD/chunks.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="TVT - Tamil View" group-title="Tamil;KaniSsKa" tvg-chno="132" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvt.jpg",TVT - Tamil View
-https://5790d294af2dc.streamlock.net/tvt/tvt/chunklist_w2134380218.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="U Tv" group-title="Tamil;KaniSsKa" tvg-chno="133" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/utv.png",U Tv
-https://stream.galaxyott.live/live/utv/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="U Tv Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="134" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/utvtamil.jpg",U Tv Tata Play
-https://cable92tataplay.akamaized.net/live/utv/index.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="Unite8 Sports" group-title="English;Sports" tvg-chno="135" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/unite8.jpg",Unite8 Sports
-http://103.151.60.162:2122/play/a0f7/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Universal Action" group-title="English;Movies" tvg-chno="136" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/universalaction.png",Universal Action
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
-
-#EXTINF:0 tvg-id="" tvg-name="Vaanavil Music" group-title="Tamil;KaniSsKa" tvg-chno="137" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vaanavil.jpg",Vaanavil Music
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Vaanavil Music" group-title="Tamil;KaniSsKa" tvg-chno="138" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vaanaviltvtamil.jpg",Vaanavil Music
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Veera Tv" group-title="Tamil;KaniSsKa" tvg-chno="139" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/veeratv.jpg",Veera Tv
-https://ipcloud.live/veeratv/veeratvhd/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Velicham" group-title="Tamil;KaniSsKa" tvg-chno="140" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/velichamtv.jpg",Velicham
-https://cdn-3.pishow.tv/live/461/master.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Velicham Tv" group-title="Tamil;KaniSsKa" tvg-chno="141" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/velichamtv.jpg",Velicham Tv
-https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Vendhar Tv" group-title="Tamil;KaniSsKa" tvg-chno="142" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vendhar.jpg",Vendhar Tv
-https://mumt04.tangotv.in/m18aqlK4VENDHARTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="WB Chasing Criminals" group-title="English;Movies" tvg-chno="143" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbcrimescenes.jpg",WB Chasing Criminals
-https://amg00136-wbd-amg00136c17-tablo-us-7204.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="WB Crime Scenes" group-title="English;Movies" tvg-chno="144" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbchasingcriminals.jpg",WB Crime Scenes
-https://amg00136-wbd-amg00136c15-tablo-us-7098.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="WB Mysterious World" group-title="English;Movies" tvg-chno="145" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbmysteriousworld.jpg",WB Mysterious World
-https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="We Baduga" group-title="Tamil;KaniSsKa" tvg-chno="146" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/badugawe.jpg",We Baduga
-https://rtmp.bmlive.net/webaduga/webaduga/stream.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="WWE Cartoon Tv" group-title="English;Sports" tvg-chno="147" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wwecartoon.jpg",WWE Cartoon Tv
-http://103.151.60.162:2122/play/a00p/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Yet" group-title="Tamil;KaniSsKa" tvg-chno="148" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/yettv.jpg",Yet
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Zee One" group-title="English;Movies" tvg-chno="149" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeeone.png",Zee One
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Zee Tamil HD" group-title="Tamil;KaniSsKa" tvg-chno="150" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeetamilhd.jpg",Zee Tamil HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Zee Tamil Malaysia" group-title="Tamil;KaniSsKa" tvg-chno="151" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeetamil.jpg",Zee Tamil Malaysia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?%7CdrmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-
-#EXTINF:0 tvg-id="" tvg-name="DD Sports Add" group-title="English;Sports" tvg-chno="152" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ddsports2.jpg",DD Sports Add
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_7.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Ten PK Sports" group-title="English;Sports" tvg-chno="153" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/pksports.jpg",Ten PK Sports
+#EXTINF:0 tvg-id="" tvg-name="Ten PK Sports" group-title="English;Sports" tvg-chno="132" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/pksports.jpg",Ten PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/chunks.m3u8?lb_backend_hint=7
 
-#EXTINF:0 tvg-id="" tvg-name="A Sports" group-title="English;Sports" tvg-chno="154" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/A_Sports.png",A Sports
-http://103.151.60.162:2122/play/a02z/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Thalaa Tv" group-title="Tamil;KaniSsKa" tvg-chno="133" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/thalaatv.jpg",Thalaa Tv
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Pappare 1" group-title="English;Sports" tvg-chno="155" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ThePapare1.png",Pappare 1
-http://103.151.60.162:2122/play/a0fm/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Tharun Movies" group-title="Tamil;KaniSsKa" tvg-chno="134" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tharunmovies.jpg",Tharun Movies
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Pappare 2" group-title="English;Sports" tvg-chno="156" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/ThePapare2.png",Pappare 2
-http://103.151.60.162:2122/play/a0fn/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Time Tv" group-title="Tamil;KaniSsKa" tvg-chno="135" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/timetv.jpg",Time Tv
+https://live.olidigital.in/timetv/timetv/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Tvi" group-title="Tamil;KaniSsKa" tvg-chno="136" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvi.png",Tvi
+https://live.cmr24.fm/TVI/SD/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="TVI HD" group-title="Tamil;KaniSsKa" tvg-chno="137" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvihd.jpg",TVI HD
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="TVT - Tamil View" group-title="Tamil;KaniSsKa" tvg-chno="138" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/tvt.jpg",TVT - Tamil View
+https://5790d294af2dc.streamlock.net/tvt/tvt/chunklist_w2134380218.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="U Tv" group-title="Tamil;KaniSsKa" tvg-chno="139" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/utv.png",U Tv
+https://stream.galaxyott.live/live/utv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="U Tv Tata Play" group-title="Tamil;KaniSsKa" tvg-chno="140" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/utvtamil.jpg",U Tv Tata Play
+https://cable92tataplay.akamaized.net/live/utv/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="Unite8 Sports" group-title="English;Sports" tvg-chno="141" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/unite8.jpg",Unite8 Sports
+http://103.151.60.162:2122/play/a0f7/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Universal Action" group-title="English;Movies" tvg-chno="142" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/universalaction.png",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254
+
+#EXTINF:0 tvg-id="" tvg-name="Vaanavil Music" group-title="Tamil;KaniSsKa" tvg-chno="143" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vaanavil.jpg",Vaanavil Music
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vaanavil Music" group-title="Tamil;KaniSsKa" tvg-chno="144" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vaanaviltvtamil.jpg",Vaanavil Music
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vasanth Tv" group-title="Tamil;KaniSsKa" tvg-chno="145" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Vasanthtv1.png",Vasanth Tv
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="VCV" group-title="Tamil;KaniSsKa" tvg-chno="146" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/Vision.jpg",VCV
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Veera Tv" group-title="Tamil;KaniSsKa" tvg-chno="147" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/veeratv.jpg",Veera Tv
+https://ipcloud.live/veeratv/veeratvhd/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Velicham" group-title="Tamil;KaniSsKa" tvg-chno="148" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/velichamtv.jpg",Velicham
+https://cdn-3.pishow.tv/live/461/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Velicham Tv" group-title="Tamil;KaniSsKa" tvg-chno="149" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/velichamtv.jpg",Velicham Tv
+https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Vendhar Tv" group-title="Tamil;KaniSsKa" tvg-chno="150" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/vendhar.jpg",Vendhar Tv
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="WB Chasing Criminals" group-title="English;Movies" tvg-chno="151" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbcrimescenes.jpg",WB Chasing Criminals
+https://amg00136-wbd-amg00136c17-tablo-us-7204.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="WB Crime Scenes" group-title="English;Movies" tvg-chno="152" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbchasingcriminals.jpg",WB Crime Scenes
+https://amg00136-wbd-amg00136c15-tablo-us-7098.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="WB Mysterious World" group-title="English;Movies" tvg-chno="153" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wbmysteriousworld.jpg",WB Mysterious World
+https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="We Baduga" group-title="Tamil;KaniSsKa" tvg-chno="154" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/badugawe.jpg",We Baduga
+https://rtmp.bmlive.net/webaduga/webaduga/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="WWE Cartoon Tv" group-title="English;Sports" tvg-chno="155" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/wwecartoon.jpg",WWE Cartoon Tv
+http://103.151.60.162:2122/play/a00p/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Yet" group-title="Tamil;KaniSsKa" tvg-chno="156" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/yettv.jpg",Yet
+https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Zee One" group-title="English;Movies" tvg-chno="157" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeeone.png",Zee One
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Zee Tamil HD" group-title="Tamil;KaniSsKa" tvg-chno="158" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeetamilhd.jpg",Zee Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Zee Tamil Malaysia" group-title="Tamil;KaniSsKa" tvg-chno="159" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/zeetamil.jpg",Zee Tamil Malaysia
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd?%7CdrmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
