@@ -438,8 +438,8 @@ http://103.151.60.162:2122/play/a01b/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Sony Ten 3" group-title="English;Sports" tvg-chno="114" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten3.jpg",Sony Ten 3
 http://103.151.60.162:2122/play/a01t/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Sony Ten 4" group-title="English;Sports" tvg-chno="115" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten4.jpg",Sony Ten 4
-http://103.151.60.162:2122/play/a021/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Sony Ten 4 Tamil" group-title="English;Sports" tvg-chno="115" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten4.jpg",Sony Ten 4 Tamil
+http://103.135.253.32:8080/TEN-4/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Sony Ten 5" group-title="English;Sports" tvg-chno="116" tvg-logo="http://kanisska.rf.gd/ott/JioTvPlus/kanisonyten5.jpg",Sony Ten 5
 http://103.151.60.162:2122/play/a028/index.m3u8
